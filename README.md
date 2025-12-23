@@ -1,8 +1,3 @@
-
----
-
-## 4️⃣ Rock Paper Scissors
-
 # Rock Paper Scissors
 
 Rock Paper Scissors is a classic hand game implemented as a web application using **HTML, CSS, and JavaScript**.  
